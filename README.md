@@ -1,7 +1,7 @@
 # Query a Digital Music Store Database
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbsio3PIZaXhP-oXb0iJ18FqrJft1EH_ei6Q&usqp=CAU" width=70% height=50%>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbsio3PIZaXhP-oXb0iJ18FqrJft1EH_ei6Q&usqp=CAU" width=50% height=50%>
 
 ## Project Description
 

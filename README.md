@@ -9,7 +9,7 @@ The schema for the Chinook Database is provided below:
 
 # Project Requirements
 
- ## 1-  [Chinook Store Database Presentation:](https://github.com/RawanAlsaedi/Query-a-Digital-Music-Store-Database/blob/main/SQL_Project.pdf)
+ ##   [1-Chinook Store Database Presentation:](https://github.com/RawanAlsaedi/Query-a-Digital-Music-Store-Database/blob/main/SQL_Project.pdf)
 The presentation file should include:
 
 - Four slides
@@ -18,10 +18,10 @@ The presentation file should include:
 - The SQL query is used to create the data used in the visualization.
 
 
-## 2-  [Queries:](https://github.com/RawanAlsaedi/Query-a-Digital-Music-Store-Database/blob/main/SQL_Project.txt)
+##   [2-Queries:](https://github.com/RawanAlsaedi/Query-a-Digital-Music-Store-Database/blob/main/SQL_Project.txt)
 A text file that includes each of the queries used to create the visualizations.
 
 
 
-## 3- [Visualizations:](https://github.com/RawanAlsaedi/Query-a-Digital-Music-Store-Database/blob/main/SQL_Project.xlsx)
+##  [3-Visualizations:](https://github.com/RawanAlsaedi/Query-a-Digital-Music-Store-Database/blob/main/SQL_Project.xlsx)
 Excel file to create data visualizations. 
